@@ -1,0 +1,21 @@
+@media (min-width: 768px) {
+    .ver-item {
+        display: flex;
+        justify-content: space-around;
+        padding: 20px;
+    }
+    .f-small {
+        color: #A6ACBE;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .user-img {
+        max-width: 2.5rem;
+        border-radius: 50%;
+        margin: 0 12px 0 0;
+    }
+    .v-1{
+        justify-content:flex-start;
+    }
+}

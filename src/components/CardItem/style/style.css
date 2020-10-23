@@ -1,0 +1,10 @@
+@media (min-width: 768px) {
+.cardItem{
+    display: flex;
+    flex-direction: row;
+    margin-left: 65px;
+    justify-content: center;
+    margin-bottom: 18px;
+    margin-top: 12px;
+}
+}

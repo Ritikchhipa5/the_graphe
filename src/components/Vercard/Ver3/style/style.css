@@ -1,0 +1,29 @@
+@media (min-width: 768px) {
+    .ver3card-top {
+        margin: 12px;
+        display: inline-flex;
+        flex-direction: column;
+        border: 1px solid #EEF0F7;
+        width: 830px;
+        border-radius: 10px;
+        min-height: 435px;
+        max-height: 435px;
+        overflow: scroll;
+        background-color: white;
+    }
+    .ver3card-top-border {
+        display: flex;
+        width: 830px;
+        border: 1px solid #EEF0F7;
+        height: 50px;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .f-small {
+        color: #A6ACBE;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+}

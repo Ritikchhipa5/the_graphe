@@ -1,0 +1,23 @@
+@media (min-width: 768px) {
+    .ver2-item {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin: 20px;
+    }
+    .f-small {
+        color: #A6ACBE;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .ver-box{
+        min-height: 309px;
+    }
+    .m-1 {
+        margin: 12px;
+    }
+    .m-2 {
+        margin: 25px;
+    }
+}

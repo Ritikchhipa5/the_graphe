@@ -1,0 +1,29 @@
+@media (min-width: 768px) {
+    .vercard-top {
+        margin: 12px;
+        margin-left: 35px;
+        display: inline-flex;
+        flex-direction: column;
+        border: 1px solid #EEF0F7;
+        width: 395px;
+        border-radius: 10px;
+        min-height: 569px;
+        max-height: 569px;
+        overflow: scroll;
+        background-color: white;
+    }
+    .vercard-top-border {
+        display: flex;
+        width: 395px;
+        border: 1px solid #EEF0F7;
+        justify-content: space-around;
+        align-items: center;
+        padding: 16px;
+    }
+    .f-small {
+        color: #A6ACBE;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+    }
+}
