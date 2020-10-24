@@ -2,7 +2,7 @@
   "name": "the_graphe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Ritikchhipa5/the_graphe.git",
+  "homepage": "https://Ritikchhipa5.github.io/the_graphe",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

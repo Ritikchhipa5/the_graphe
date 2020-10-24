@@ -21,7 +21,10 @@ export default function Topbar() {
                     <div>Cody Simmmons</div>
                     <div className="font-size">Lecturer</div>
                 </div>
-                <a href="/"><img src={process.env.PUBLIC_URL + 'image/user.jpg'} alt='user' className="user-img"></img></a>
+                <a href="/"><svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="25" cy="25" r="25" fill="#EBEBEB" />
+                </svg>
+                </a>
                 <span>
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M6 9L12 15L18 9" stroke="#C9CED6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
